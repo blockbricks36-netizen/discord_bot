@@ -1,0 +1,11 @@
+# PyCharm project configuration
+.idea/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Compiled Python files
+__pycache__/
+*.pyc
